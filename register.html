@@ -1,0 +1,125 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Account</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<form id="signupForm">
+    <div class="container">
+
+        <div class="logo">
+            <h1>facebook</h1>
+            <p>Create your account</p>
+        </div>
+
+        <div class="card">
+
+            <div class="brand">
+                
+                <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"
+                    alt="Facebook Logo" class="fb-logo">
+                <h1>facebook</h1>
+            </div>
+
+            <h2 class="h2">Get Started</h2>
+            <p>Create an account to connect with friends, neighbours or family.</p>
+
+            <!-- NAME -->
+            <label>Name</label>
+            <div class="name-box">
+                <input type="text" id="firstName" placeholder="First Name">
+                <input type="text" id="surname" placeholder="Surname">
+            </div>
+
+            <!-- DOB -->
+            <label>Date of Birth</label>
+            <div class="dob-box">
+
+                <select id="month">
+                    <option value="">Month</option>
+                    <option>January</option>
+                    <option>February</option>
+                    <option>March</option>
+                    <option>April</option>
+                    <option>May</option>
+                    <option>June</option>
+                    <option>July</option>
+                    <option>August</option>
+                    <option>September</option>
+                    <option>October</option>
+                    <option>November</option>
+                    <option>December</option>
+                </select>
+
+                <select id="date">
+                    <option value="">Date</option>
+                    <option>1</option><option>2</option><option>3</option><option>4</option>
+                    <option>5</option><option>6</option><option>7</option><option>8</option>
+                    <option>9</option><option>10</option><option>11</option><option>12</option>
+                    <option>13</option><option>14</option><option>15</option><option>16</option>
+                    <option>17</option><option>18</option><option>19</option><option>20</option>
+                    <option>21</option><option>22</option><option>23</option><option>24</option>
+                    <option>25</option><option>26</option><option>27</option><option>28</option>
+                    <option>29</option><option>30</option><option>31</option>
+                </select>
+
+                <select id="year">
+                    <option value="">Year</option>
+                    <option>2026</option>
+                    <option>2025</option>
+                    <option>2024</option>
+                    <option>2023</option>
+                    <option>2022</option>
+                    <option>2021</option>
+                    <option>2020</option>
+                    <option>2019</option>
+                    <option>2018</option>
+                    <option>2017</option>
+                </select>
+
+            </div>
+
+            <!-- GENDER -->
+            <label>Gender</label>
+            <select id="gender">
+                <option value="">Select Gender</option>
+                <option>Male</option>
+                <option>Female</option>
+                <option>Custom</option>
+            </select>
+
+            <!-- EMAIL -->
+            <label>Email or Number</label>
+            <input type="text" id="email" placeholder="Mobile Number or Email">
+
+            <p>You may receive an OTP or password.</p>
+
+            <!-- PASSWORD -->
+            <label>Password</label>
+            <input type="password" id="password" placeholder="Password">
+
+            <p>Password must be at least 8 characters.</p>
+
+            <!-- BUTTON -->
+            <button class="submit-btn" type="submit">
+    Submit
+</button>
+
+            <a href="login.html" class="login-link">
+                Already have an account?
+            </a>
+
+        </div>
+    </div>
+</form>
+    <script src="app.js"></script>
+</body>
+</html>

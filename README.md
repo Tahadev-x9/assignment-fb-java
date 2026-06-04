@@ -3,4 +3,4 @@
 
 
        netlify link :
-                       https://fbevent122.netlify.app/register.html
+                      https://celebrated-jalebi-f9fbd5.netlify.app/

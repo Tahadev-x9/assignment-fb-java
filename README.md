@@ -1,8 +1,4 @@
- In this assignment:
-       facebook form uses javascript after submitting form comes to console via user Obj 
-
-
-       netlify link :
+     netlify link :
                      https://fbevent1122.netlify.app/
 
 # Facebook Clone Authentication System

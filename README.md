@@ -96,16 +96,7 @@ This project demonstrates practical implementation of:
 * Browser Storage Usage
 * DOM Manipulation
 * JavaScript Event Handling
-* Dynamic User Interfaces
-* Error Handling with Try-Catch
-* Responsive Web Design
-* Session Management
 
-## 📱 Responsive Design
-
-The application is designed to work across:
-
-* Desktop
 * Laptop
 * Tablet
 * Mobile Devices

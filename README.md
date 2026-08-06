@@ -97,10 +97,6 @@ This project demonstrates practical implementation of:
 * DOM Manipulation
 * JavaScript Event Handling
 
-* Laptop
-* Tablet
-* Mobile Devices
-
-
+  lapitopi
 
 

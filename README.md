@@ -97,6 +97,11 @@ This project demonstrates practical implementation of:
 * DOM Manipulation
 * JavaScript Event Handling
 
-  lapitopi
+
+Learn how local storage works and submit handler to perform button work properly .
+learn css grid and flex box .
+learn Html skeleton shaping .
+learn doing work with vibe coder ai platform .
+
 
 

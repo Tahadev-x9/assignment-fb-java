@@ -92,11 +92,12 @@ A responsive Facebook-inspired authentication and profile dashboard application 
 This project demonstrates practical implementation of:
 
 * Authentication System Logic
+* User friendly
+* safe opinion regarding this
 * Front-End Form Handling
 * Browser Storage Usage
 * DOM Manipulation
-* JavaScript Event Handling
-
+* JavaScript Event looping
 
 Learn how local storage works and submit handler to perform button work properly .
 learn css grid and flex box .

@@ -1,4 +1,4 @@
-     netlify link :
+   #  Netlify link:
                      https://fbevent1122.netlify.app/
 
 # Facebook Clone Authentication system
@@ -7,9 +7,9 @@ A responsive Facebook-inspired authentication and profile dashboard application 
 
 ## 🚀 Features
 
-### User Registration
+## User Register : 
 
-* Create a new account with personal information.
+* Create a new account with personal information. and much more as a worker. 
 * Form validation for required fields.
 * Success alert after account creation.
 * User data stored locally in the browser.

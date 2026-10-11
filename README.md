@@ -48,7 +48,9 @@ A responsive Facebook-inspired authentication and profile dashboard application 
 * Navigation and dashboard layout
 
 ### CSS3
-
+ Make feel it better
+ Smooth curving and lashing 
+ better clmponrnt with result 
 * Responsive design
 * Custom styling
 * Flexbox layout

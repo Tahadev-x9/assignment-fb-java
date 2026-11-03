@@ -87,7 +87,10 @@ A responsive Facebook-inspired authentication and profile dashboard application 
    * Profile information is displayed.
    * Avatar initials are generated automatically.
 9. User can logout from the navbar.
-10. Session is cleared and the user is redirected back to the authentication page.
+10. Session is cleared and the user is redirected back to the authentication
+11. and reasonbale of the better paper
+12.  better luck and better problem. 
+13.   page.
 
 ## 🎯 Learning Objectives
 

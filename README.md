@@ -5,6 +5,11 @@
 Netlify link are currently suspended and not working there right now .
 so , 
 sorry for the in unconvinence ..
+
+
+
+
+The site of netlify is suspended due this site viewing is not available.
 # Facebook Clone Authentication system
 
 A responsive Facebook-inspired authentication and profile dashboard application built using **HTML, CSS, and JavaScript**. This project allows users to create an account, log in securely, view their profile information, and manage their session through a simple dashboard interface.
